@@ -52,6 +52,7 @@ To design and develop a dynamic and visually engaging **Sales Performance Dashbo
 2. Navigate to the dashboard sheet to explore charts and summaries.
 3. To update visuals, input new data in the data sheet—charts will refresh automatically.
 4. Use filters or slicers (if added) to analyze specific products or cities.
+<img width="1860" height="701" alt="image" src="https://github.com/user-attachments/assets/ea37d1ae-6141-4f6d-a7fd-9ccb21d57d2b" />
 
 ---
 
